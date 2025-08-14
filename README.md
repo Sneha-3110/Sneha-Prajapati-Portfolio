@@ -1,12 +1,25 @@
-# React + Vite
+# Sneha Prajapati - React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built with **React.js**, showcasing my projects, skills, and experience.  
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+(https://your-live-link.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+- 🖥️ **Responsive Design** – Works on all devices
+- ⚡ **Fast & Optimized** – Built with React best practices
+- 🎨 **Clean UI** – Minimal and professional design
+- 📂 **Projects Showcase** – Displays my work with descriptions and links
+- 📞 **Contact Section** – Easy way to reach me
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **Tailwind CSS** 
+- **Git & GitHub**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📷 Screenshots
+
+<img width="1867" height="896" alt="Screenshot 2025-08-14 225551" src="https://github.com/user-attachments/assets/c8eed0cb-e928-4958-9635-7d13c574a027" />
+<img width="1232" height="828" alt="Screenshot 2025-08-14 225648" src="https://github.com/user-attachments/assets/3eb26c4f-a7e6-46e2-a15b-e4ca12d59849" />
