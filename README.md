@@ -2,8 +2,7 @@
 
 A modern and responsive personal portfolio website built with **React.js**, showcasing my projects, skills, and experience.  
 
-## 🚀 Live Demo
-(https://your-live-link.com)
+## 🚀 Live Demo: https://sneha-prajapati-portfolio.netlify.app/
 
 ## 📌 Features
 - 🖥️ **Responsive Design** – Works on all devices
